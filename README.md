@@ -16,9 +16,6 @@
 
 ## 🏆 GitHub Trophies
 
-**Ranking:**
-[![Ranking](https://github-profile-trophy.vercel.app/?username=HarshNaagar77&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=3&title=Ranking)](https://github-profile-trophy.vercel.app/?username=HarshNaagar77&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=3&title=Ranking)
-
 **Commits:**
 [![Commits](https://github-profile-trophy.vercel.app/?username=HarshNaagar77&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=3&title=Commits)](https://github-profile-trophy.vercel.app/?username=HarshNaagar77&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=3&title=Commits)
 
