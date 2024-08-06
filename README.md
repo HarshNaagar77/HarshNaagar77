@@ -1,4 +1,4 @@
-![Header](./github-header-image)
+![Header](./github-header-image.png)
 👯 I’m looking to collaborate on fullstack web projects.<br>🌱 I’m currently learning fullstack development and dsa with c++.<br>💬 Ask me about react , express , c++ , python .<br>📫 Contect me at hnaagar12@gmail.com .
 
 
