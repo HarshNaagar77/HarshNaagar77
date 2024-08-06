@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamharsh9311) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HarshNaagar)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,C,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,css,js,html,md,py,netlify,heroku,vercel,bootstrap,express,nextjs,react,tailwind,vite,mongodb,mysql,nodejs,figma&theme=light)]
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HarshNaagar77&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HarshNaagar77&theme=rose&hide_border=false)<br/>
