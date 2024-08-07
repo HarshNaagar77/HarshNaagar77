@@ -1,10 +1,12 @@
 ![Header](./github-header-image.png)
-👯 I’m looking to collaborate on fullstack web projects.<br>🌱 I’m currently learning fullstack development and dsa with c++.<br>💬 Ask me about react , express , c++ , python .<br>📫 Contect me at hnaagar12@gmail.com .
 
 <br/>
+👯 I’m looking to collaborate on fullstack web projects.<br>🌱 I’m currently learning fullstack development and dsa with c++.<br>💬 Ask me about react , express , c++ , python .<br>📫 Contect me at hnaagar12@gmail.com .
+
+
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamharsh9311)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HarshNaagar)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/iamharsh9311)
+[![Instagram](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/HarshNaagar)
 
 [![](https://visitcount.itsvg.in/api?id=HarshNaagar77&icon=2&color=0)](https://visitcount.itsvg.in)
 
