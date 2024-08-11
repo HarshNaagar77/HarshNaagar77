@@ -7,6 +7,7 @@
 ## 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/iamharsh9311)
 [![Instagram](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/HarshNaagar)
+[![Instagram](https://skillicons.dev/icons?i=leetcode)](https://leetcode.com/u/naagarharsh70/)
 
 [![](https://visitcount.itsvg.in/api?id=HarshNaagar77&icon=2&color=0)](https://visitcount.itsvg.in)
 
