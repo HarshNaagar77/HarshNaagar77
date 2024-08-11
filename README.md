@@ -18,7 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HarshNaagar77&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshNaagar77&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/>
-![](https://leetcard.jacoblin.cool/naagarharsh70?ext=activity&theme=w)
+![](https://leetcard.jacoblin.cool/naagarharsh70?ext=activity&theme=w)(https://leetcode.com/u/naagarharsh70/)
 
 ## 🏆 GitHub Trophies
 
